@@ -1,0 +1,10 @@
+dynasty,report,frequency_per_year,content,copies_and_route
+Ming,Triennial report,0.333,"four columns: opening, receipts, disbursements, closing","Yellow Register in two copies, one kept by the reporting unit, one sent to the supervisors"
+Ming,Annual report,1,"four columns: annual levy, annual receipts, annual expenditure, annual stock",one statement a year
+Ming,Semi-annual and quarterly report,4,"four columns: opening, receipts, disbursements, closing",one statement every three months
+Ming,Monthly report,12,receipts and expenditure,one statement a month
+Qing customs,Daily return,365,"ships, tonnage, goods, duties",port office to the Inspectorate
+Qing customs,Monthly return,12,"ships, tonnage, goods, duties",port office to the Inspectorate
+Qing customs,Quarterly return,4,"ships, tonnage, goods, duties",port office to the Inspectorate
+Qing customs,Annual trade report,1,"trade by port, gold and silver, import and export duties",published
+Qing customs,Decennial report,0.1,"social, economic and administrative change around each port",published

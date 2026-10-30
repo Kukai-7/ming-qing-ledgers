@@ -1,0 +1,18 @@
+region,region_note,stations_total,land_stations,water_stations,delivery_posts
+Liaodong,Mukden in the source,15,11,4,8
+Beizhili,North Zhili (capital region),41,33,8,16
+Yingtianfu,Nanjing prefecture; listed apart from Nanzhili in the source,8,6,2,1
+Nanzhili,South Zhili,59,51,8,0
+Zhejiang,,33,19,14,1
+Jiangxi,,40,24,16,6
+Huguang,,111,76,35,13
+Fujian,,51,41,10,1
+Shandong,,41,34,7,1
+Shanxi,,58,58,0,7
+Henan,,54,54,0,37
+Shaanxi,,130,124,6,35
+Sichuan,,141,93,48,14
+Guangdong,,75,40,35,1
+Guangxi,,73,54,19,4
+Yunnan,,74,74,0,0
+Guizhou,,31,31,0,0

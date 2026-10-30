@@ -1,0 +1,10 @@
+register,chinese,dynasty,unit_recorded,cycle,purpose,note
+Yellow Registers,黄册,Ming,household,every 10 years from 1381,population and tax base,"archive of more than 1.7 million volumes in about 700 storehouses by the end of the Ming, as reported"
+White Books,白册,Ming,household (special cases),county level,local record kept by county officials,not sent to the Ministry of Revenue
+Fish-scale atlases,鱼鳞图册,Ming and Qing,plot of land,with land surveys,"cadastre: topography, soil quality, owner",plots drawn side by side like fish scales
+Household tablets,户帖,early Ming,household,1370s,"head, members, age, sex, relation to the head, address",a wooden tablet on the gate
+Complete Book of Taxes and Services,赋役全书,Ming and Qing,tax obligation,revised by reign,master list of taxes and labour duties,Qing version adds reductions and exemptions
+Wanli Accounting Records,万历会计录,Ming,state account,1581,"43 volumes: households, farms, military pay, taxes, transport",compiled by the Ministry of Revenue
+Circular register,循环册,Qing,individual,continuous,"residence, age, land, occupation, migration",updated so the picture is current at any time
+Baojia registers,保甲,Ming and Qing,household group,continuous,"policing, mutual responsibility, local tax",Qing version numbers every household and covers migrants and temples
+National hukou registry,户籍,late Qing,household,1909 regulations,count for the constitutional reform,"population imputed at 5.5 persons per household in the 18 provinces, 8.38 outside"

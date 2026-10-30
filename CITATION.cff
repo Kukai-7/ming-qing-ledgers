@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these tables or figures, please cite this repository and the source papers."
+title: "Ming–Qing Ledgers: How Imperial China Counted Value"
+authors:
+  - alias: Kukai-7
+year: 2026
+url: "https://github.com/Kukai-7/ming-qing-ledgers"
+license: CC-BY-4.0
+references:
+  - type: article
+    authors:
+      - family-names: Amurskaya
+        given-names: M. A.
+    title: "Accounting and statistics in China during the Ming dynasty"
+    journal: "Accounting. Analysis. Auditing"
+    volume: 9
+    issue: 2
+    year: 2022
+    doi: 10.26794/2408-9303-2022-9-2-72-81
+  - type: article
+    authors:
+      - family-names: Amurskaya
+        given-names: M. A.
+    title: "Accounting and statistics in China under the Qing dynasty"
+    journal: "Accounting. Analysis. Auditing"
+    volume: 9
+    issue: 6
+    year: 2022
+    doi: 10.26794/2408-9303-2022-9-6-61-70
